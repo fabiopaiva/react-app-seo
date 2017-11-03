@@ -1,0 +1,13 @@
+{
+    "name": "fabiopaiva/react-app-seo",
+    "description": "A PHP render script to serve React Apps SEO friendly",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fábio Paiva",
+            "email": "fabio@paiva.info"
+        }
+    ],
+    "require": {}
+}
